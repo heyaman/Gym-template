@@ -1,0 +1,40 @@
+body{
+    background: url(../images/myfit2.jpeg)
+        no-repeat center center fixed;
+    background-size: cover;
+    
+ }
+
+
+div{
+    background-color:#CBAF89;
+    width: 50%;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top:450px;  
+    margin-left: 600px;
+    text-align: center;
+   
+    
+}
+i{
+    font-size: 3em;
+    padding: 2px;
+}
+
+button{
+    background:#414449;
+/*    text-decoration-color: aliceblue;*/
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 5px; 
+    padding-bottom: 2px;
+    margin-bottom: 5px;
+    
+   
+    
+}
+h1{
+    
+font-family: 'Libre Baskerville', serif;
+}
